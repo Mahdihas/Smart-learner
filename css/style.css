@@ -8,3 +8,9 @@ body {
 .nav-link {
     color: gray !important;
 }
+
+.navbar-brand {
+    font-size: 40px;
+    color: rgba(74, 74, 74, 1) !important;
+    ;
+}
