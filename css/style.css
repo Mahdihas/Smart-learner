@@ -37,3 +37,11 @@ body {
     background: #000 !important;
     opacity: 0.6 !important;
 }
+
+@media (max-width:576px) {
+    .sub img {
+        max-width: 100% !important;
+        width: 500px !important
+    }
+
+}
