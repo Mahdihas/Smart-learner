@@ -12,8 +12,6 @@ body {
     ;
 }
 
-
-
 .carousel-item {
     height: 500px !important;
     min-height: 300px;
@@ -43,5 +41,4 @@ body {
         max-width: 100% !important;
         width: 500px !important
     }
-
 }
